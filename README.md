@@ -1,2 +1,28 @@
-# 37ee3e04-cleaning-janitorial-client-c
-Stop losing cleaning contracts to disorganized follow-ups. The Cleaning &amp; Janitorial Client CRM and Pipeline Tracker Notion Template turns your scattered leads and client data into a streamlined pipeline that never drops a ball.  This template centralizes every prospect, client, and job in one Notion workspace. Unlike generic CRMs, it’s tailored fo
+# Cleaning & Janitorial Client CRM and Pipeline Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI9AT4ePaQA09a9rKd0j3X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI9AT4ePaQA09a9rKd0j3X)
+
